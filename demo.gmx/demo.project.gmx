@@ -27,6 +27,7 @@
     <scripts name="Player">
       <script>scripts\ProcessPlayer.gml</script>
       <script>scripts\InitialisePlayer.gml</script>
+      <script>scripts\PlayerInput.gml</script>
     </scripts>
     <script>scripts\AddMultiple.gml</script>
     <script>scripts\AttachMultiple.gml</script>
